@@ -4,7 +4,7 @@ import './service.css'
 const Services = () => {
   return (
     <div>
-      Services
+      
     </div>
   )
 }
