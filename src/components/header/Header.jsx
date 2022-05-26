@@ -6,7 +6,7 @@ import Laura from "../../assets/happy-girl-wb.png";
 
 const Header = () => {
   return (
-    <div>
+    <header>
       <div className="container header-container">
         <h5>Hello, I'm</h5>
         <h1>Laura Zuluaga</h1>
@@ -22,7 +22,7 @@ const Header = () => {
           Scroll Down
         </a>
       </div>
-    </div>
+    </header>
   );
 };
 
