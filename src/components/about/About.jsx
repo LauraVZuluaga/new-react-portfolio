@@ -40,10 +40,8 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium
-            unde odit nostrum quae magnam natus, saepe fugit assumenda.
-            Explicabo consequatur quo id eius ratione sed, enim error ullam eos
-            ipsam.
+          Systems Engineer dedicated to frontend development. I am a proactive and analytical person. I work mainly with Javascript (Vue Js, Nuxt Js), but it is always an excellent opportunity to learn new technologies like I do right now with React Js and Typescript 👩‍💻. I am passionate about constantly improving my skills, working as a team, interacting with clients and understanding their needs ✍. I love dancing, singing, nature 🌞, spending time with my family and my new hobby is crafts 🧡. 
+
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

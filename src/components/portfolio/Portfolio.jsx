@@ -1,10 +1,12 @@
 import React from "react";
 import "./portfolio.css";
 import fireApp from "../../assets/fire-app.png";
+import geoApp from "../../assets/geoApp.jpg";
 import movieApp from "../../assets/movie-app.png";
 import reactPortfolio from "../../assets/react-portfolio.jpg";
 
 const data = [
+    
   {
     id: 1,
     image: fireApp,

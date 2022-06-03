@@ -1,6 +1,8 @@
 import React from "react";
 import "./testimonial.css";
 import userProfile from "../../assets/user-profile.png";
+import juliProfile from "../../assets/Juli.jpeg";
+import jessiProfile from "../../assets/Jessi.jpg";
 
 // import Swiper core and required modules
 import { Pagination, Navigation } from "swiper";
@@ -13,23 +15,23 @@ import "swiper/css/pagination";
 
 const data = [
   {
-    avatar: userProfile,
-    name: "Julián Salgado",
+    avatar: juliProfile,
+    name: "Julián Salgado - Ingeniero de Sistemas y Computación",
     review:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis nemo dolore reiciendis dolor aperiam eum accusamus perspiciatis placeat possimus mollitia alias sequi faciliarchitecto, quae quisquam? Ipsam voluptate architecto sit.",
+      "Es una mujer muy comprometida, disciplinada, perseverante y se enfoca fácilmente en sus deberes. Le gusta hacer las cosas bien hechas, comprendiendo el objetivo de ello y siempre pensando en la experiencia de la persona que va a utilizar su desarrollo. Le gusta organizarse escribiendo las tareas por colores identificándolas por prioridad. Le gusta ser propositiva, cuestionar y buscar soluciones a los problemas que surjan tanto profesional como personal. En los equipos de trabajo tiene iniciativa y casi siempre, resulta siendo la voz líder organizando las tareas que cada integrante debe hacer y, asignándolas sin mayor problema.",
   },
   {
-    avatar: userProfile,
-    name: "Julián Salgado",
+    avatar: jessiProfile,
+    name: "Jessica Quintero Gómez - QA Tester",
     review:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis nemo dolore reiciendis dolor aperiam eum accusamus perspiciatis placeat possimus mollitia alias sequi faciliarchitecto, quae quisquam? Ipsam voluptate architecto sit.",
+      "Laura es una desarrolladora dedicada, responsable, y con un gran nivel estético por los detalles. Siempre busca mejorar sus habilidades, capacitarse y mantenerse al día con las tendencias de desarrollo actuales. Cuenta con una excelente capacidad de liderazgo y de trabajo en equipo destacando las habilidades de sus compañeros y apoyándolos en sus falencias",
   },
 ];
 
 const Testimonial = () => {
   return (
     <section id="testimonials">
-      <h5>Review from clients</h5>
+      <h5>Review from coworkers</h5>
       <h2>Testimonials</h2>
       <Swiper
         className="container testimonials-container"
