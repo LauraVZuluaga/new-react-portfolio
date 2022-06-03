@@ -3,6 +3,7 @@ import "./testimonial.css";
 import userProfile from "../../assets/user-profile.png";
 import juliProfile from "../../assets/Juli.jpeg";
 import jessiProfile from "../../assets/Jessi.jpg";
+import alejoProfile from "../../assets/Alejo.jpeg";
 
 // import Swiper core and required modules
 import { Pagination, Navigation } from "swiper";
@@ -25,6 +26,12 @@ const data = [
     name: "Jessica Quintero Gómez - QA Tester",
     review:
       "Laura es una desarrolladora dedicada, responsable, y con un gran nivel estético por los detalles. Siempre busca mejorar sus habilidades, capacitarse y mantenerse al día con las tendencias de desarrollo actuales. Cuenta con una excelente capacidad de liderazgo y de trabajo en equipo destacando las habilidades de sus compañeros y apoyándolos en sus falencias",
+  },
+  {
+    avatar: alejoProfile,
+    name: "Alejandro Victoria Tamayo - QA Tester",
+    review:
+      "Profesional destacada y enamorada de su arte, dando pinceladas de talento cada que tiene oportunidad. Líder por naturaleza, iluminando el camino de las personas en busca de su mejor versión. Cada día busca perfeccionar sus resultados combinando destreza y proactividad, en busca de un objetivo con calidad y excelencia.",
   },
 ];
 
