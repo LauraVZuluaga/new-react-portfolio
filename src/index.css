@@ -105,6 +105,7 @@ a:hover {
 .btn-primary {
   background: var(--color-primary);
   color: var(--color-bg);
+  font-family: 'Poppins';
 }
 
 img {
@@ -130,7 +131,7 @@ img {
     width: var(--container-width-sm);
   }
   section > h2{
-    margin-bottom: 6rem;
+    margin-bottom: 2rem;
   }
 }
 /* END SMALL DEVICES*/
