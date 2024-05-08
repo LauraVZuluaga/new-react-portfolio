@@ -19,19 +19,19 @@ const data = [
     avatar: juliProfile,
     name: "Julián Salgado - Ingeniero de Sistemas y Computación",
     review:
-      "Es una mujer muy comprometida, disciplinada, perseverante y se enfoca fácilmente en sus deberes. Le gusta hacer las cosas bien hechas, comprendiendo el objetivo de ello y siempre pensando en la experiencia de la persona que va a utilizar su desarrollo. Le gusta organizarse escribiendo las tareas por colores identificándolas por prioridad. Le gusta ser propositiva, cuestionar y buscar soluciones a los problemas que surjan tanto profesional como personal. En los equipos de trabajo tiene iniciativa y casi siempre, resulta siendo la voz líder organizando las tareas que cada integrante debe hacer y, asignándolas sin mayor problema.",
+      "She is a very committed, disciplined, and persevering woman who easily focuses on her duties. She enjoys doing things well, understanding their purpose, and always considering the user experience for those who will use her work. She likes to organize tasks by color, prioritizing them. She is proactive, questions things, and seeks solutions to both professional and personal problems. In team settings, she takes initiative and often becomes the voice of leadership, organizing tasks for each team member and assigning them without any issues.",
   },
   {
     avatar: jessiProfile,
     name: "Jessica Quintero Gómez - QA Tester",
     review:
-      "Laura es una desarrolladora dedicada, responsable, y con un gran nivel estético por los detalles. Siempre busca mejorar sus habilidades, capacitarse y mantenerse al día con las tendencias de desarrollo actuales. Cuenta con una excelente capacidad de liderazgo y de trabajo en equipo destacando las habilidades de sus compañeros y apoyándolos en sus falencias",
+      "Laura is a dedicated developer, responsible, and with a great aesthetic sense for details. She always seeks to improve her skills, train herself, and stay up to date with current development trends. She has excellent leadership and teamwork skills, highlighting her colleagues' abilities and supporting them in their weaknesses.",
   },
   {
     avatar: alejoProfile,
     name: "Alejandro Victoria Tamayo - QA Tester",
     review:
-      "Profesional destacada y enamorada de su arte, dando pinceladas de talento cada que tiene oportunidad. Líder por naturaleza, iluminando el camino de las personas en busca de su mejor versión. Cada día busca perfeccionar sus resultados combinando destreza y proactividad, en busca de un objetivo con calidad y excelencia.",
+      "An outstanding professional and passionate about her craft, she brushes strokes of talent whenever she gets the chance. A natural leader, illuminating the path for individuals in search of their best selves. Every day, she seeks to perfect her results by combining skill and proactivity, aiming for a goal with quality and excellence.",
   },
 ];
 

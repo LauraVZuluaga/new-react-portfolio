@@ -26,7 +26,7 @@ const Experience = () => {
             </article>
             <article className="experience-details">
               <BsFillCheckCircleFill className="experience-detail-icon" />
-              <h4>Bootstrap</h4>
+              <h4>SASS</h4>
             </article>
             <article className="experience-details">
               <BsFillCheckCircleFill className="experience-detail-icon" />
@@ -34,7 +34,15 @@ const Experience = () => {
             </article>
             <article className="experience-details">
               <BsFillCheckCircleFill className="experience-detail-icon" />
-              <h4>UX/UI notions</h4>
+              <h4>UX/UI</h4>
+            </article>
+            <article className="experience-details">
+              <BsFillCheckCircleFill className="experience-detail-icon" />
+              <h4>React Js</h4>
+            </article>
+            <article className="experience-details">
+              <BsFillCheckCircleFill className="experience-detail-icon" />
+              <h4>SEO</h4>
             </article>
           </div>
         </div>
@@ -62,7 +70,7 @@ const Experience = () => {
               <BsFillCheckCircleFill className="experience-detail-icon experience-detail-icon-size communication" />
               <div>
                 <h4>Good communication</h4>
-                <small className="text-light">(Spanish and English B1)</small>
+                <small className="text-light">(Spanish and English B2)</small>
               </div>
             </article>
             <article className="experience-details">
