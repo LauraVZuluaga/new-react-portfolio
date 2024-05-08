@@ -3,9 +3,9 @@
 }
 
 .container.contact-container {
-  width: 58%;
+  width: 25%;
   display: grid;
-  grid-template-columns: 30% 50%;
+  grid-template-columns: 100%;
   gap: 12%;
 }
 

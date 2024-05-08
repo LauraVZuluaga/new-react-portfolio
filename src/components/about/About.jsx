@@ -23,7 +23,7 @@ const About = () => {
             <article className="about-card">
               <FaAward className="about-icon" />
               <h5>Experience</h5>
-              <small>2+ Years Working</small>
+              <small>5+ Years Working</small>
             </article>
             <article className="about-card">
               <FiUsers className="about-icon" />
@@ -40,7 +40,7 @@ const About = () => {
           </div>
 
           <p>
-          Systems Engineer dedicated to frontend development. I am a proactive and analytical person. I work mainly with Javascript (Vue Js, Nuxt Js), but it is always an excellent opportunity to learn new technologies like I do right now with React Js and Typescript 👩‍💻. I am passionate about constantly improving my skills, working as a team, interacting with clients and understanding their needs ✍. I love dancing, singing, nature 🌞, spending time with my family and my new hobby is crafts 🧡. 
+          Hi! I am Laura Zuluaga, a frontend developer with over 5 years of experience in website development. I'm a proactive and analytical individual proficient in HTML, CSS, JavaScript, and technologies such as React and Vue.js. I have a passion for continuously enhancing my skills, collaborating within teams, engaging with clients, and understanding their needs.
 
           </p>
           <a href="#contact" className="btn btn-primary">
